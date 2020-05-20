@@ -1,0 +1,23 @@
+{
+    "name":"main-content",
+    "id":"0001",
+    "products": [
+        {
+            "id":"0001",
+            "name":"Perfume 1",
+            "price":"9,99"
+        },{
+            "id":"0002",
+            "name":"Perfume 2",
+            "price":"9,99"
+        },{
+            "id":"0003",
+            "name":"Perfume 3",
+            "price":"9,99"
+        },{
+            "id":"0004",
+            "name":"Perfume 4",
+            "price":"9,99"
+        }
+    ]
+}

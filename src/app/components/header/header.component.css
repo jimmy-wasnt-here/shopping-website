@@ -1,0 +1,40 @@
+.header {
+  
+    background-color: red;
+    padding: 25px;
+}
+
+.logo {
+    font-family: 'roboto';
+    font-size: 35px;
+    font-style: italic;
+    border: solid;
+    padding: 15px;
+    color: white;
+    border-color: white;
+    text-align: center;
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    border-radius: 50px;
+    margin-bottom: 15px;
+}
+
+ul {
+    list-style: none;
+    text-align: center;
+    color: white;
+    vertical-align: baseline;
+}
+
+li {
+    display: inline;
+    font-style: italic;
+    font-size: 20px;
+    margin-right: 15px;
+    font-family: 'roboto';
+    padding-top: 20px;
+}
+
+.black-icon {
+    color: black;
+}
